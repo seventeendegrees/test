@@ -1,0 +1,11 @@
+a=666
+strB="niubi"
+newastr=str(a)#将整形转化为字符串
+strc=strB+newastr
+print(strc)
+b=66.66
+newbstr=str(b)
+print(strB+newbstr)
+c=True
+print(strB+str(c))
+print(type(str(c)))

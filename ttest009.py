@@ -1,0 +1,11 @@
+#False
+print(bool(0))
+print(bool(""))
+print(bool([]))
+print(bool(0.0))
+print(bool(()))
+print(bool())
+#其他为True
+print(bool(1))
+print(bool("abc"))
+print(bool([0]))
